@@ -88,7 +88,7 @@ function scrollHorizontal(){
 
 
 
-window.onload = function(){
+window.onload = function(){/*
 	
 
 	
@@ -103,7 +103,7 @@ window.onload = function(){
 		amplitudeFactor: 3.00,
 		size: 2.00,
 		
-		})
+		})*/
 
 
 	
